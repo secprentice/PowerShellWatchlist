@@ -134,3 +134,10 @@ write-serviceexe
 write-serviceexecmd
 write-useraddmsi
 write-useraddservicebinary
+VolumeShadowCopyTools
+Get-MicrophoneAudio
+Get-GPPAutologon
+Get-WmiObject Win32_ComputerSystem
+Find-ProcessDLLHijack
+Get-System
+Get-TimedScreenshot
