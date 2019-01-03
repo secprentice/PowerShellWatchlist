@@ -145,3 +145,4 @@ New-Object System.Security.Cryptography.HMACSHA256
 [System.Text.Encoding]::ASCII.GetString([System.Convert]
 ConvertTo-Rc4ByteStream
 Invoke-ShellCommand
+{$o = $_.getowner(); if(-not $($o.User))
