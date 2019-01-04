@@ -146,4 +146,6 @@ New-Object System.Security.Cryptography.HMACSHA256
 ConvertTo-Rc4ByteStream
 Invoke-ShellCommand
 {$o = $_.getowner(); if(-not $($o.User))
-Set-MpPreference -DisableRealtimeMonitoring $true
+Set-MpPreference -DisableRealtimeMonitoring
+DisableRealtimeMonitoring
+Set-MpPreference
