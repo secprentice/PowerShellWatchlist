@@ -1,4 +1,4 @@
-# PowerShellBlacklist
+# PowerShell Watchlist
 List of PowerShell commands and commandlets that should be in your Powershel watchlist. 
 Some of the commands listed here are used legitimately. There is no doubt some whitelisting will be required in your enviroment.
 
