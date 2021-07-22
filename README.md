@@ -1,4 +1,4 @@
-# PowerShell Watchlist
+# PowerShell Block list / Watch list
 List of PowerShell commands and commandlets that should be in your Powershel watchlist. 
 Some of the commands listed here are used legitimately. There is no doubt some allow listing will be required in your enviroment.
 
